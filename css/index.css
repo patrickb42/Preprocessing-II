@@ -276,6 +276,7 @@ nav div a {
 }
 @media (max-width: 502px) {
   .home .content-section .img-content {
+    padding-left: 0;
     width: 100%;
   }
 }

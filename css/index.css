@@ -279,7 +279,11 @@ nav div a {
   width: 30%;
   margin-bottom: 30px;
 }
-.welcome {
+.top {
+  padding-top: 0;
+  padding-bottom: 0.7rem;
+}
+.top .welcome {
   padding: 2.3rem 0 0.7rem;
   border-bottom: 2px dashed #C0C0C0;
 }
